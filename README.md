@@ -24,6 +24,7 @@ my operating system (our os)
 - support for Go, Rust, C++, C, Java, Kotlin, Swift (SwiftUI), dart (flutter) .. etc (choose a standard one)
 - file system (fs) with versioning (like btrfs) with speed
 - reactive programming : not-async=bg and not-sync=blocking.
+- touchpad gestures : like gome 40 or mac os
 - OS is ready out of the box :
   - word-processor (word)
   - slideshow (powerpoint)
