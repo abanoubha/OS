@@ -23,6 +23,7 @@ my operating system (our os)
 - support for all display languages and keyboard layouts
 - support for Go, Rust, C++, C, Java, Kotlin, Swift (SwiftUI), dart (flutter) .. etc (choose a standard one)
 - file system (fs) with versioning (like btrfs) with speed
+- reactive programming : not-async=bg and not-sync=blocking.
 - OS is ready out of the box :
   - word-processor (word)
   - slideshow (powerpoint)
@@ -59,7 +60,7 @@ my operating system (our os)
   - teamviewer
   - adobe xd n figma - like
   - cloud storage client
-  - virtualbox n boxes
+  - virtualbox n gnome boxes
   - sqlite browser
   - video editor
   - download manager
