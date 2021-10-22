@@ -1,6 +1,9 @@
 # OS
 my operating system (our os)
 
+> __our os__ stands on the shoulders of the giants
+> — Abanoub Hanna
+
 ## thoughts
 - seamless editing : edit the thing at the thing itself
 - seamless settings
