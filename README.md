@@ -9,15 +9,15 @@ my operating system (our os)
 - seamless settings
 - terminal ready : you can do everything in terminal
 - ui/ux ready : you can do everything in GUI
-- tiling window manager
+- ~tiling window manager~ (in a modern way)
 - all key shortcuts
-- configurable via __conf files__ or __settings app gui___
+- configurable via __conf files__ or __settings app gui__
 - blazing fast with less RAM usage (use RUST)
 - dynamic linked apps (work smart)
-- pm : package manager made for this OS
+- ~pm : package manager made for this OS~ (Ubuntu-based)
 - can install .deb , flatpak, snap, .appimage , .. and all linux packages. Add apk (android via anbox), and exe (windows via WINE), and app/pkg (apple - maybe)
-- HiDPI and loDPI screens / displays
-- pick stability from Debian and Ubuntu + drivers for VMs and HW.
+- ~HiDPI and loDPI screens / displays~ (Ubuntu-based)
+- ~pick stability from Debian and Ubuntu + drivers for VMs and HW.~ (Ubuntu-based)
 - touch friendly : big roundy icons and buttons
 - developer documentation, video tutorials : for devs
 - usage documentation, video tutorials : for users
@@ -25,9 +25,9 @@ my operating system (our os)
 - ready to use libraries for all various things (text to speech, speech to text, OCR, decoders, encoders, .. )
 - support for all display languages and keyboard layouts
 - support for Go, Rust, C++, C, Java, Kotlin, Swift (SwiftUI), dart (flutter) .. etc (choose a standard one)
-- file system (fs) with versioning (like btrfs) with speed
+- ~file system (fs) with versioning (like btrfs) with speed~
 - reactive programming : not-async=bg and not-sync=blocking.
-- touchpad gestures : like gome 40 or mac os
+- touchpad gestures : like gnome 40 or mac os
 - OS is ready out of the box :
   - word-processor (word)
   - slideshow (powerpoint)
@@ -76,7 +76,7 @@ my operating system (our os)
   - care center : optimize storage, check hardware, .. etc
   - PWA support
   - fing : list all devices connected to the wifi
-  - on-screen keyboard
+  - on-screen keyboard (osk)
   - image optimizer / compressor
   - live transcribe
   - p.o.s : paid cloud, free local storage
