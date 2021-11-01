@@ -4,7 +4,8 @@ my operating system (our os)
 > __our os__ stands on the shoulders of the giants
 > — Abanoub Hanna
 
-Our OS = Ubuntu + DE + addon software
+Our OS = Ubuntu + DE + addon software.
+
 Our OS is community-driven opinions with monthly updates.
 
 ## thoughts
