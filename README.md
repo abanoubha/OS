@@ -8,6 +8,15 @@ Our OS = Ubuntu + DE + addon software.
 
 Our OS is community-driven opinions with monthly updates.
 
+## Main features and aspects
+- seamless editing
+- seamless settings
+- terminal friendly with keyboard/mouse/touchpad/touch screen
+- GUI friendly w/ keyboard/mouse/touchpad/touch screen
+- features that makes sense and help get the job done
+- at the speed of thought
+- settings GUI, config file, seamless settings
+
 ## thoughts
 - seamless editing : edit the thing at the thing itself
 - seamless settings
@@ -88,9 +97,3 @@ Our OS is community-driven opinions with monthly updates.
   - screencast : record videos n steaming like obs studio
   - google translate
   - rsync n rsnapshot
-
-
-## Focus
-terminal vs GUI -> both
-keyboard shortcuts vs mouse clicks vs touchpad gestures -> all
-features vs stability -> both
