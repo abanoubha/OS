@@ -8,6 +8,9 @@ Our OS = Ubuntu + DE + addon software.
 
 Our OS is community-driven opinions with monthly updates.
 
+## Vison
+- _smart_ OS (Ubuntu + DE)
+
 ## Main features and aspects
 - seamless editing
 - seamless settings
