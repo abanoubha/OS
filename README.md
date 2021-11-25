@@ -102,3 +102,5 @@ Our OS is community-driven opinions with monthly updates.
 - usage documentation, video tutorials : for 
 - file extension hints at the program used to open the file
 - send to desktop (shortcut)
+- support flatpak & snap & apt with the first app installed of a package manager
+- if you use pacman for example, the error will tell you to use apt or snap or flatpak to install the app
