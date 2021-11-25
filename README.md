@@ -1,4 +1,4 @@
-# OS
+# OS (Ubuntu flavor)
 my operating system (our os)
 
 > __our os__ stands on the shoulders of the giants
@@ -100,3 +100,5 @@ Our OS is community-driven opinions with monthly updates.
   - google translate
   - rsync n rsnapshot
 - usage documentation, video tutorials : for 
+- file extension hints at the program used to open the file
+- send to desktop (shortcut)
