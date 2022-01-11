@@ -9,7 +9,8 @@ Our OS = Ubuntu + DE + addon software.
 Our OS is community-driven opinions with monthly updates.
 
 ## Vison
-- _smart_ OS (Ubuntu + DE)
+smart OS (Ubuntu + DE)
+- smart package manager: abstraction over __apt__, __flatpak__, __snap__ and __appimage__.
 
 ## Main features and aspects
 - seamless editing
