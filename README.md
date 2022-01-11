@@ -11,6 +11,7 @@ Our OS is community-driven opinions with monthly updates.
 ## Vison
 smart OS (Ubuntu + DE)
 - smart package manager: abstraction over __apt__, __flatpak__, __snap__ and __appimage__.
+- app store : abstraction with ability to pay-as-you-want option + all supported packaging.
 
 ## Main features and aspects
 - seamless editing
