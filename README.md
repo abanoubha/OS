@@ -129,5 +129,15 @@ Obviously, I can't do all of this alone. So I will select software to combine an
 - live transcribe : WIP
 - video editor : [kdenlive](https://flathub.org/apps/details/org.kde.kdenlive)
 - gaming : [steam](https://flathub.org/apps/details/com.valvesoftware.Steam)
-- code editor w autocomplete : ~vscode~ , ~elementary code~ , ~vim~ , .. (another one needed)
-- Christian : Bible (WIP), Agpeya (WIP).
+- code editor w autocomplete : ~vscode~ , ~elementary code~ , ~vim~ , [~~Builder~~](https://flathub.org/apps/details/org.gnome.Builder) .. (another one needed)
+- office suite : [Libre Office](https://flathub.org/apps/details/org.libreoffice.LibreOffice)
+  - Writer (word processing)
+  - Calc (spreadsheets)
+  - Impress (presentations)
+  - Draw (vector graphics and flowcharts)
+  - Base (databases)
+  - Math (formula editing))
+- note taking : [typora](https://flathub.org/apps/details/io.typora.Typora)
+- 3D creation suite : [Blender](https://flathub.org/apps/details/org.blender.Blender)
+- Vector Graphics Editor : [inkscape](https://flathub.org/apps/details/org.inkscape.Inkscape)
+- Christian : Bible (WIP), Agpeya (WIP)
