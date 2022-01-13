@@ -51,62 +51,6 @@ smart OS that is ours
 - ~file system (fs) with versioning (like btrfs) with speed~
 - reactive programming : not-async=bg and not-sync=blocking.
 - touchpad gestures : like gnome 40 or mac os
-- OS is ready out of the box :
-  - word-processor (word)
-  - slideshow (powerpoint)
-  - sheets (excel)
-  - screenshot
-  - terminal
-  - file manager
-  - web browser
-  - email client
-  - calendar
-  - reminder
-  - notes : paid cloud, free local storage
-  - contacts
-  - music n video player
-  - image viewer
-  - camera
-  - voice recorder
-  - dictionary
-  - calculator
-  - app store
-  - settings n preferences
-  - text editor n source code editor
-  - image editor
-  - vector editor
-  - audio editor
-  - fonts
-  - activity monitor or system monitor (aka task manager)
-  - disk utility (aka GParted or Disks)
-  - Bluetooth file exchange
-  - Wifi connect n file sharing
-  - archiver (zip, rar, 7z, ..)
-  - ftp client (filezilla)
-  - torrent client (mission)
-  - teamviewer
-  - adobe xd n figma - like
-  - cloud storage client
-  - virtualbox n gnome boxes
-  - sqlite browser
-  - video editor
-  - download manager
-  - fan control
-  - clipboard manager
-  - bible
-  - agpeya
-  - clock n stopwatch n timer
-  - care center : optimize storage, check hardware, .. etc
-  - PWA support
-  - conn : list all devices connected to the wifi
-  - on-screen keyboard (osk)
-  - image optimizer / compressor
-  - live transcribe
-  - p.o.s : paid cloud, free local storage
-  - firewall
-  - screencast : record videos n steaming like obs studio
-  - google translate
-  - rsync n rsnapshot
 - usage documentation, video tutorials : for 
 - file extension hints at the program used to open the file
 - send to desktop (shortcut)
@@ -118,6 +62,7 @@ smart OS that is ours
 Obviously, I can't do all of this alone. So I will select software to combine and get __our os__.
 
 - package manager : both [snap](https://snapcraft.io/store) and [flatpak](https://flathub.org/apps)
+- terminal : pre-installed distro emulator w/ [fish](https://fishshell.com/) shell
 - video player : [mpv](https://flathub.org/apps/details/io.mpv.Mpv) and/or the pre-installed player
 - web browser : [firefox](https://flathub.org/apps/details/org.mozilla.firefox)
 - virtual machine : [GNOME boxes](https://flathub.org/apps/details/org.gnome.Boxes)
@@ -141,3 +86,44 @@ Obviously, I can't do all of this alone. So I will select software to combine an
 - 3D creation suite : [Blender](https://flathub.org/apps/details/org.blender.Blender)
 - Vector Graphics Editor : [inkscape](https://flathub.org/apps/details/org.inkscape.Inkscape)
 - Christian : Bible (WIP), Agpeya (WIP)
+- screenshot
+- file manager
+- email client : i just use the website on the web browser
+- calendar : pre-installed one
+- reminder : _
+- contacts : _
+- image viewer : pre-installed one
+- camera : [cheese](https://flathub.org/apps/details/org.gnome.Cheese)
+- voice recorder : _
+- dictionary : _
+- calculator : pre-installed one
+- app store : _
+- settings n preferences : _
+- image editor : [GIMP](https://flathub.org/apps/details/org.gimp.GIMP)
+- audio editor : [Audacity](https://flathub.org/apps/details/org.audacityteam.Audacity)
+- fonts : _
+- activity monitor or system monitor (aka task manager) : htop
+- disk utility : GParted and/or Disks
+- Bluetooth file exchange : _
+- Wifi connect n file sharing : _
+- archiver (zip, rar, 7z, ..) : _
+- ftp client : [filezilla](https://flathub.org/apps/details/org.filezillaproject.Filezilla)
+- torrent client : [transmission](https://flathub.org/apps/details/com.transmissionbt.Transmission)
+- desktop remote access / control : [AnyDesk](https://anydesk.com/en) or [teamviewer](https://www.teamviewer.com/en/)
+- UI mockups & UX : [figma](https://flathub.org/apps/details/io.github.Figma_Linux.figma_linux)
+- cloud storage client : _
+- sqlite browser : [sqlite browser](https://snapcraft.io/sqlitebrowser)
+- download manager : _
+- fan control : _
+- clipboard manager : _
+- clock n stopwatch n timer : _
+- care center : optimize storage, check hardware, .. etc : _
+- PWA support : _
+- on-screen keyboard (osk) : _
+- image optimizer / compressor : _
+- live transcribe : _
+- firewall : [ufw](https://snapcraft.io/ufw)
+- translation tool : [google translate website](https://translate.google.com/)
+- ssh
+- scp / rsync
+- rsnapshot
