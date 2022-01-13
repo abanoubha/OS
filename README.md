@@ -1,20 +1,21 @@
-# OS (Ubuntu flavor)
-my operating system (our os)
+# OS
+my journey to a better operating system (__our os__)
 
 > __our os__ stands on the shoulders of the giants
 > — Abanoub Hanna
 
-Our OS = Ubuntu + DE + addon software.
-
-Our OS is community-driven opinions with monthly updates.
+Our OS = Linux Distribution (like Ubuntu) + DE (Gnome, Cosmic or Pantheon) + Software Tools
 
 ## Vison
-smart OS (Ubuntu + DE)
+
+smart OS that is ours
+
 - smart package manager: abstraction over __apt__, __flatpak__, __snap__ and __appimage__.
-- app store : abstraction with ability to pay-as-you-want option + all supported packaging.
+- app store : abstraction with ability to pay-as-you-want option + all supported packaging. (or easy to adopt alt packaging)
 - IDE : UI designer + Code editor + autocomplete + __Go__/__Rust__/C/CPP.
 
 ## Main features and aspects
+
 - seamless editing
 - seamless settings
 - terminal friendly with keyboard/mouse/touchpad/touch screen
@@ -26,6 +27,7 @@ smart OS (Ubuntu + DE)
 - self-configure
 
 ## thoughts
+
 - seamless editing : edit the thing at the thing itself
 - seamless settings
 - terminal ready : you can do everything in terminal
@@ -35,7 +37,7 @@ smart OS (Ubuntu + DE)
 - configurable via __conf files__ or __settings app gui__
 - blazing fast with less RAM usage (use RUST)
 - dynamic linked apps (work smart)
-- ~pm : package manager made for this OS~ (Ubuntu-based)
+- ~pm : package manager made for this OS~
 - can install .deb , flatpak, snap, .appimage , .. and all linux packages. Add apk (android via anbox), and exe (windows via WINE), and app/pkg (apple - maybe)
 - ~HiDPI and loDPI screens / displays~ (Ubuntu-based)
 - ~pick stability from Debian and Ubuntu + drivers for VMs and HW.~ (Ubuntu-based)
@@ -96,7 +98,7 @@ smart OS (Ubuntu + DE)
   - clock n stopwatch n timer
   - care center : optimize storage, check hardware, .. etc
   - PWA support
-  - fing : list all devices connected to the wifi
+  - conn : list all devices connected to the wifi
   - on-screen keyboard (osk)
   - image optimizer / compressor
   - live transcribe
@@ -110,3 +112,22 @@ smart OS (Ubuntu + DE)
 - send to desktop (shortcut)
 - support flatpak & snap & apt with the first app installed of a package manager
 - if you use pacman for example, the error will tell you to use apt or snap or flatpak to install the app
+
+## Finally
+
+Obviously, I can't do all of this alone. So I will select software to combine and get __our os__.
+
+- package manager : both [snap](https://snapcraft.io/store) and [flatpak](https://flathub.org/apps)
+- video player : [mpv](https://flathub.org/apps/details/io.mpv.Mpv) and/or the pre-installed player
+- web browser : [firefox](https://flathub.org/apps/details/org.mozilla.firefox)
+- virtual machine : [GNOME boxes](https://flathub.org/apps/details/org.gnome.Boxes)
+- screencasting : [obs studio](https://flathub.org/apps/details/com.obsproject.Studio)
+- GIF screen recorder : [peek](https://flathub.org/apps/details/com.uploadedlobster.peek)
+- point of sale software and inventory managemnet : WIP [POS](https://github.com/abanoubha/pos)
+- list all devices connected to wifi router : WIP [conn](https://github.com/abanoubha/conn)
+- image optimizer / compressor : WIP
+- live transcribe : WIP
+- video editor : [kdenlive](https://flathub.org/apps/details/org.kde.kdenlive)
+- gaming : [steam](https://flathub.org/apps/details/com.valvesoftware.Steam)
+- code editor w autocomplete : ~vscode~ , ~elementary code~ , ~vim~ , .. (another one needed)
+- Christian : Bible (WIP), Agpeya (WIP).
