@@ -82,7 +82,7 @@ Obviously, I can't do all of this alone. So I will select software to combine an
   - Draw (vector graphics and flowcharts)
   - Base (databases)
   - Math (formula editing))
-- note taking : [typora](https://flathub.org/apps/details/io.typora.Typora)
+- note taking : [markText](https://github.com/marktext/marktext)
 - 3D creation suite : [Blender](https://flathub.org/apps/details/org.blender.Blender)
 - Vector Graphics Editor : [inkscape](https://flathub.org/apps/details/org.inkscape.Inkscape)
 - Christian : Bible (WIP), Agpeya (WIP)
