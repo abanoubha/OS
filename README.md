@@ -127,4 +127,4 @@ Obviously, I can't do all of this alone. So I will select software to combine an
 - ssh
 - scp / rsync
 - rsnapshot
-- business cards : [kartbusiness.com](kartbusiness.com)
+- business cards : [kartbusiness.com](https://kartbusiness.com)
